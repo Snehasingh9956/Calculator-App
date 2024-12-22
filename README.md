@@ -1,8 +1,5 @@
-Enhanced Calculator App
+#Enhanced Calculator App
 An interactive and user-friendly calculator web application with advanced features like history tracking and scientific functions.
-
-
-
 
 Features
 Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division.
